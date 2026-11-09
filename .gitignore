@@ -1,0 +1,6 @@
+build/
+*.app/
+*.appex/
+.DS_Store
+*.xcuserstate
+.venv/
